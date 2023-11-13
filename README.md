@@ -14,7 +14,7 @@ mensagem diretamente assim que pressionar Enter.
 
 - [ ] Adicione a funcionalidade “{user} está digitando”.
 
-- [ x ] Mostre quem está online.
+- [x] Mostre quem está online.
 
 - [ ] Adicione mensagens privadas.
 
