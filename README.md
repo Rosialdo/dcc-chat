@@ -2,6 +2,23 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## Metas de implementação: 
+
+- [ ] Transmita uma mensagem para usuários conectados quando alguém se conectar ou
+desconectar.
+
+- [ ] Adicione suporte para nicknames.
+
+- [ ] Não envie a mesma mensagem para o usuário que a enviou. Em vez disso, anexe a 
+mensagem diretamente assim que pressionar Enter.
+
+- [ ] Adicione a funcionalidade “{user} está digitando”.
+
+- [ x ] Mostre quem está online.
+
+- [ ] Adicione mensagens privadas.
+
+
 First, run the development server:
 
 ```bash
